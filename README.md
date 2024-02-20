@@ -1,2 +1,2 @@
-NOM : Hazem Ben Alaya
+Hazem Ben Alaya
 RT2/2
